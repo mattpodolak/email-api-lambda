@@ -1,0 +1,10 @@
+{
+    "resource": "/",
+    "path": "/",
+    "httpMethod": "POST",
+    "body": {
+        "name": "John Smith",
+        "email": "sample@gmail.com",
+        "message": "Test"
+    }
+}
